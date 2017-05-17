@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightpuzzle.png",
+        "source": "C:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\src\\main\\res\\drawable\\eightpuzzle.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smalltiles.png",
+        "source": "C:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\src\\main\\res\\drawable\\smalltiles.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]

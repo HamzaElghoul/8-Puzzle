@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed May 17 04:52:00 CEST 2017
+2.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\eightpuzzle.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\smalltiles.png
+4.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\game.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+8.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\help.xml
+10.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Hamza\\StudioProjects\\eight_puzzle\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\credits.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
